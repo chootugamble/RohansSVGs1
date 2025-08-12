@@ -1,22 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 9.03 Build 0)  -->
-<svg version="1.1" id="ff53a47a37ac4564bffb469b2339e96520250811121512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="936895da0bc243d389781cf3912f602b20250812104317" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
-<linearGradient id="7a42435eb3094b82a5f90fa3711489d820250811121512" gradientUnits="userSpaceOnUse" x1="10.257" y1="55.1741" x2="100" y2="55.1741">
+<linearGradient id="3694e5781cba4f4088e7a3f9645deb8320250812104317" gradientUnits="userSpaceOnUse" x1="10.257" y1="55.1741" x2="100" y2="55.1741">
 	<stop  offset="0" style="stop-color:#2293D1"/>
 	<stop  offset="1" style="stop-color:#2F99D5"/>
 </linearGradient>
-<path fill="url(#7a42435eb3094b82a5f90fa3711489d820250811121512)" d="M94.4,20.3h-69L10.3,36.6v47.8c0,3.1,2.5,5.6,5.6,5.6h78.4c3.1,0,5.6-2.5,5.6-5.6V26
+<path fill="url(#3694e5781cba4f4088e7a3f9645deb8320250812104317)" d="M94.4,20.3h-69L10.3,36.6v47.8c0,3.1,2.5,5.6,5.6,5.6h78.4c3.1,0,5.6-2.5,5.6-5.6V26
 	C100,22.8,97.5,20.3,94.4,20.3z"/>
-<linearGradient id="c99c9a43cbb5437694e6bebc1a8c87c820250811121512" gradientUnits="userSpaceOnUse" x1="6.641445e-02" y1="44.8841" x2="89.8095" y2="44.8841">
+<linearGradient id="4ce8c5e9a669403994c3f67f0d98987920250812104317" gradientUnits="userSpaceOnUse" x1="6.641445e-02" y1="44.8841" x2="89.8095" y2="44.8841">
 	<stop  offset="0" style="stop-color:#75CFEB"/>
 	<stop  offset="1" style="stop-color:#75CFEB"/>
 </linearGradient>
-<path fill="url(#c99c9a43cbb5437694e6bebc1a8c87c820250811121512)" d="M84.2,10H25L0.1,35v39.1c0,3.1,2.5,5.6,5.6,5.6
+<path fill="url(#4ce8c5e9a669403994c3f67f0d98987920250812104317)" d="M84.2,10H25L0.1,35v39.1c0,3.1,2.5,5.6,5.6,5.6
 	h78.4c3.1,0,5.6-2.5,5.6-5.6V15.7C89.8,12.5,87.3,10,84.2,10z"/>
 <polygon fill="#2293D1" points="25,10 0,35 17.7,35 25,26.7 "/>
 <path fill="#2293D1" d="M25,31l0-11.2c0-3.6-4.4-5.4-6.9-2.9L6.9,28.1C4.4,30.7,6.2,35,9.8,35L21,35C23.2,35,25,33.2,25,31z"/>
 </svg>
+
 
 
 
