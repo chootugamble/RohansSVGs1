@@ -44,10 +44,10 @@ foreach ($targetDir in $targetDirs) {
             }
             
             # Add file columns organized by extension with relative paths from Icons folder and GitHub raw URL prefix
-            $svgFiles = $files | Where-Object { $_.Extension -eq ".svg" } | ForEach-Object { "https://raw.githubusercontent.com/chootugamble/RohansSVGs1/refs/heads/main/" + ("Icons" + $_.FullName.Substring($iconsPath.Length)) }
-            $pngFiles = $files | Where-Object { $_.Extension -eq ".png" } | ForEach-Object { "https://raw.githubusercontent.com/chootugamble/RohansSVGs1/refs/heads/main/" + ("Icons" + $_.FullName.Substring($iconsPath.Length)) }
-            $aiFiles = $files | Where-Object { $_.Extension -eq ".ai" } | ForEach-Object { "https://raw.githubusercontent.com/chootugamble/RohansSVGs1/refs/heads/main/" + ("Icons" + $_.FullName.Substring($iconsPath.Length)) }
-            $psdFiles = $files | Where-Object { $_.Extension -eq ".psd" } | ForEach-Object { "https://raw.githubusercontent.com/chootugamble/RohansSVGs1/refs/heads/main/" + ("Icons" + $_.FullName.Substring($iconsPath.Length)) }
+            $svgFiles = $files | Where-Object { $_.Extension -eq ".svg" } | ForEach-Object { ("https://raw.githubusercontent.com/chootugamble/RohansSVGs1/refs/heads/main/Icons/" + $targetDir + "/" + $subdir.Name + "/" + $_.Name).Replace("\", "/") }
+            $pngFiles = $files | Where-Object { $_.Extension -eq ".png" } | ForEach-Object { ("https://raw.githubusercontent.com/chootugamble/RohansSVGs1/refs/heads/main/Icons/" + $targetDir + "/" + $subdir.Name + "/" + $_.Name).Replace("\", "/") }
+            $aiFiles = $files | Where-Object { $_.Extension -eq ".ai" } | ForEach-Object { ("https://raw.githubusercontent.com/chootugamble/RohansSVGs1/refs/heads/main/Icons/" + $targetDir + "/" + $subdir.Name + "/" + $_.Name).Replace("\", "/") }
+            $psdFiles = $files | Where-Object { $_.Extension -eq ".psd" } | ForEach-Object { ("https://raw.githubusercontent.com/chootugamble/RohansSVGs1/refs/heads/main/Icons/" + $targetDir + "/" + $subdir.Name + "/" + $_.Name).Replace("\", "/") }
             
             # Update the row with file links
             $row.SVGLink = ($svgFiles -join "; ")
