@@ -1,20 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 9.03 Build 0)  -->
-<svg version="1.1" id="3804ab049ae14d539bd7c128a38800e920250812104317" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="abd581c1a7f649069553b8c8ad7142e720250813124346" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
-<linearGradient id="d48337adbc4c4547bffba498edec1aaa20250812104317" gradientUnits="userSpaceOnUse" x1="81.7974" y1="66.7018" x2="18.2026" y2="66.7018">
+<linearGradient id="fb033c3ef9af45d0a85f027395820dba20250813124346" gradientUnits="userSpaceOnUse" x1="81.7974" y1="66.7018" x2="18.2026" y2="66.7018">
 	<stop  offset="0" style="stop-color:#2DA1DB"/>
 	<stop  offset="1" style="stop-color:#36BCED"/>
 </linearGradient>
-<path fill="url(#d48337adbc4c4547bffba498edec1aaa20250812104317)" d="M68.8,35.8l12.1,12.1c1.2,1.2,1.2,3.1,0,4.2L35.4,97.6c-1.2,1.2-3.1,1.2-4.2,0L19.1,85.5
+<path fill="url(#fb033c3ef9af45d0a85f027395820dba20250813124346)" d="M68.8,35.8l12.1,12.1c1.2,1.2,1.2,3.1,0,4.2L35.4,97.6c-1.2,1.2-3.1,1.2-4.2,0L19.1,85.5
 	c-1.2-1.2-1.2-3.1,0-4.2l45.5-45.5C65.8,34.6,67.7,34.6,68.8,35.8z"/>
-<linearGradient id="3fca499cb75d4496a7339d291dea62aa20250812104317" gradientUnits="userSpaceOnUse" x1="18.2026" y1="33.2982" x2="81.7974" y2="33.2982">
+<linearGradient id="1c3b9d31a9404710888f23a9ecaf2cec20250813124346" gradientUnits="userSpaceOnUse" x1="18.2026" y1="33.2982" x2="81.7974" y2="33.2982">
 	<stop  offset="0" style="stop-color:#2DA1DB"/>
 	<stop  offset="1" style="stop-color:#36BCED"/>
 </linearGradient>
-<path fill="url(#3fca499cb75d4496a7339d291dea62aa20250812104317)" d="M80.9,52.1L68.8,64.2c-1.2,1.2-3.1,1.2-4.2,0
+<path fill="url(#1c3b9d31a9404710888f23a9ecaf2cec20250813124346)" d="M80.9,52.1L68.8,64.2c-1.2,1.2-3.1,1.2-4.2,0
 	L19.1,18.7c-1.2-1.2-1.2-3.1,0-4.2L31.2,2.4c1.2-1.2,3.1-1.2,4.2,0l45.5,45.5C82.1,49.1,82.1,51,80.9,52.1z"/>
 </svg>
+
 
 
 
