@@ -1,7 +1,7 @@
 ﻿<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
 	<title>New Project</title>
 	<style>
-		.C8a0e2255091749bf825349a60cc45d0b20250901171111 { fill: none;stroke: #000000;stroke-miterlimit:100;stroke-width: 10 } 
+		.C8a0e2255091749bf825349a60cc45d0b20250901171111 { fill: none;stroke: currentcolor;stroke-miterlimit:100;stroke-width: 10 } 
 	</style>
 	<path id="I66bb293409564efa892a651ba889de7b20250901171111" fill-rule="evenodd" class="C8a0e2255091749bf825349a60cc45d0b20250901171111" d="m100 0v100h-100v-100z"/>
 	<path id="Ica49768510554ec4ab975ed986354d1b20250901171111" class="C8a0e2255091749bf825349a60cc45d0b20250901171111" d="m52 20v60h-5v-60zm0 0v60h-5v-60z"/>
