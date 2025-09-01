@@ -1,0 +1,19 @@
+﻿<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+	<title>New Project</title>
+	<defs>
+		<linearGradient id="Ibe7020f1380046eba58a7316605d780f20250901182939" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(31.673,0,0,38.044,4.12,67.754)">
+			<stop offset="0" stop-color="#41d400"/>
+			<stop offset="1" stop-color="#2e9800"/>
+		</linearGradient>
+		<linearGradient id="I81cf85c107cf410ea85b58e6e4edc15b20250901182939" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(75.275,0,0,75.275,20.288,49.648)">
+			<stop offset="0" stop-color="#2e9600"/>
+			<stop offset="1" stop-color="#42d700"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.C176c4111331842bab66f994f7bc8447b20250901182939 { fill: url(#Ibe7020f1380046eba58a7316605d780f20250901182939) } 
+		.C9d28142cd37f47829e39b3bfc66dfe9c20250901182939 { fill: url(#I81cf85c107cf410ea85b58e6e4edc15b20250901182939) } 
+	</style>
+	<path id="I9aad0dd4b62e48e9a0bd0db80a63123720250901182939" fill-rule="evenodd" class="C176c4111331842bab66f994f7bc8447b20250901182939" d="m6.6 51.1l1.8-1.2c2.7-2 6.4-1.4 8.4 1.3l17.9 24.8c1.9 2.7 1.3 6.4-1.4 8.4l-1.8 1.2c-2.6 2-6.4 1.4-8.3-1.3l-17.9-24.8c-2-2.7-1.4-6.4 1.3-8.4z"/>
+	<path id="Id4f0ae5b8f0346618ce2b4b9f6c0244f20250901182939" fill-rule="evenodd" class="C9d28142cd37f47829e39b3bfc66dfe9c20250901182939" d="m92.3 13.8l1.5 1.5c2.3 2.4 2.3 6.2 0 8.5l-61.7 61.7c-2.4 2.4-6.2 2.4-8.5 0l-1.6-1.5c-2.3-2.4-2.3-6.2 0-8.5l61.8-61.7c2.3-2.4 6.1-2.4 8.5 0z"/>
+</svg>

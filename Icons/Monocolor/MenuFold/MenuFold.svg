@@ -1,11 +1,12 @@
 ﻿<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
 	<title>New Project</title>
 	<style>
-		.C8c1f45ff5b5b4869a9769c9fa9cabba220250901174543 { fill: currentcolor } 
+		.C536e6cc34aec4ba0bcb9adb8b80cbfa620250901182938 { fill: currentcolor } 
 	</style>
-	<path id="I46a4c90e5c8c427ba25466b7820388dd20250901174543" class="C8c1f45ff5b5b4869a9769c9fa9cabba220250901174543" d="m100 10v5h-100v-5zm0 0v5h-100v-5zm0 0v5h-100v-5z"/>
-	<path id="I2ffb7dc4f9c94627929dfad4564da26420250901174543" class="C8c1f45ff5b5b4869a9769c9fa9cabba220250901174543" d="m100 85v5h-100v-5zm0 0v5h-100v-5z"/>
-	<path id="I1b9671cb3c1547cfb7f9feab31ce536520250901174543" fill-rule="evenodd" class="C8c1f45ff5b5b4869a9769c9fa9cabba220250901174543" d="m100 34v5h-60v-5z"/>
-	<path id="Ie81183499b69461c9ad6b65ed16b419020250901174543" fill-rule="evenodd" class="C8c1f45ff5b5b4869a9769c9fa9cabba220250901174543" d="m100 61v5h-60v-5z"/>
-	<path id="I9be5ccf534924def9ae01a93bde1841b20250901174543" fill-rule="evenodd" class="C8c1f45ff5b5b4869a9769c9fa9cabba220250901174543" d="m38.9 49.8l-30.9 17.9v-35.7z"/>
+	<path id="I2ec285b6ea794d4d9a19cec2f99f961020250901182938" class="C536e6cc34aec4ba0bcb9adb8b80cbfa620250901182938" d="m100 10v5h-100v-5zm0 0v5h-100v-5zm0 0v5h-100v-5z"/>
+	<path id="I2e29dc99751b4f82a3fe821675e182e020250901182938" class="C536e6cc34aec4ba0bcb9adb8b80cbfa620250901182938" d="m100 85v5h-100v-5zm0 0v5h-100v-5z"/>
+	<path id="Idf140ae6630f4f8fa9f2d43f985a2c7920250901182938" fill-rule="evenodd" class="C536e6cc34aec4ba0bcb9adb8b80cbfa620250901182938" d="m100 34v5h-60v-5z"/>
+	<path id="I765d32959ca944e5bad426f9d118e01320250901182938" fill-rule="evenodd" class="C536e6cc34aec4ba0bcb9adb8b80cbfa620250901182938" d="m100 61v5h-60v-5z"/>
+	<path id="I880670fc3a2d44acae36bfe106e6b02c20250901182938" fill-rule="evenodd" class="C536e6cc34aec4ba0bcb9adb8b80cbfa620250901182938" d="m38.9 49.8l-30.9 17.9v-35.7z"/>
 </svg>
+
