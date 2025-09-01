@@ -65,17 +65,26 @@ Write-Host "`nStep 3: Finding all ID declarations and concatenating unique IDs..
 
 # Function to generate a new unique ID for each ID
 function New-IDUniqueID {
-    return New-UniqueID
+    $uniqueId = New-UniqueID
+    return "I$uniqueId"
 }
 
-# Function to process SVG files and replace IDs
-function Process-SVGIds {
+# Function to generate a new unique class name
+function New-ClassUniqueID {
+    $uniqueId = New-UniqueID
+    return "C$uniqueId"
+}
+
+# Function to process SVG files and replace IDs and classes
+function Process-SVGIdsAndClasses {
     param(
         [string[]]$SvgFilePaths
     )
     
     $idReplacements = @{}
+    $classReplacements = @{}
     $totalIdsFound = 0
+    $totalClassesFound = 0
     
     foreach ($svgFile in $SvgFilePaths) {
         try {
@@ -84,29 +93,59 @@ function Process-SVGIds {
             
             # Find all ID declarations using regex
             $idPattern = 'id="([^"]*)"'
-            $matches = [regex]::Matches($svgContent, $idPattern)
+            $idMatches = [regex]::Matches($svgContent, $idPattern)
             
-            if ($matches.Count -gt 0) {
+            # Find all class declarations using regex
+            $classPattern = 'class="([^"]*)"'
+            $classMatches = [regex]::Matches($svgContent, $classPattern)
+            
+            if ($idMatches.Count -gt 0 -or $classMatches.Count -gt 0) {
                 Write-Host "Processing: $svgFile"
-                Write-Host "  Found $($matches.Count) ID declarations:"
                 
-                # Process each ID found
-                foreach ($match in $matches) {
-                    $originalId = $match.Groups[1].Value
-                    $totalIdsFound++
+                # Process IDs
+                if ($idMatches.Count -gt 0) {
+                    Write-Host "  Found $($idMatches.Count) ID declarations:"
                     
-                    # Generate new unique ID for this ID
-                    $newUniqueId = New-IDUniqueID
-                    $newId = $newUniqueId
-                    
-                    # Store the replacement mapping
-                    $idReplacements[$originalId] = $newId
-                    
-                    Write-Host "    - '$originalId' -> '$newId'"
+                    # Process each ID found
+                    foreach ($match in $idMatches) {
+                        $originalId = $match.Groups[1].Value
+                        $totalIdsFound++
+                        
+                        # Generate new unique ID for this ID
+                        $newUniqueId = New-IDUniqueID
+                        $newId = $newUniqueId
+                        
+                        # Store the replacement mapping
+                        $idReplacements[$originalId] = $newId
+                        
+                        Write-Host "    - ID '$originalId' -> '$newId'"
+                    }
                 }
                 
-                # Replace all IDs in the SVG content
+                # Process Classes
+                if ($classMatches.Count -gt 0) {
+                    Write-Host "  Found $($classMatches.Count) class declarations:"
+                    
+                    # Process each class found
+                    foreach ($match in $classMatches) {
+                        $originalClass = $match.Groups[1].Value
+                        $totalClassesFound++
+                        
+                        # Generate new unique class name
+                        $newUniqueClass = New-ClassUniqueID
+                        $newClass = $newUniqueClass
+                        
+                        # Store the replacement mapping
+                        $classReplacements[$originalClass] = $newClass
+                        
+                        Write-Host "    - Class '$originalClass' -> '$newClass'"
+                    }
+                }
+                
+                # Replace all IDs and classes in the SVG content
                 $newSvgContent = $svgContent
+                
+                # Replace IDs
                 foreach ($originalId in $idReplacements.Keys) {
                     $newId = $idReplacements[$originalId]
                     # Replace the ID declaration
@@ -115,11 +154,20 @@ function Process-SVGIds {
                     $newSvgContent = $newSvgContent -replace "#$originalId", "#$newId"
                 }
                 
+                # Replace Classes
+                foreach ($originalClass in $classReplacements.Keys) {
+                    $newClass = $classReplacements[$originalClass]
+                    # Replace the class declaration
+                    $newSvgContent = $newSvgContent -replace "class=`"$originalClass`"", "class=`"$newClass`""
+                    # Replace all CSS references to the old class (with . prefix)
+                    $newSvgContent = $newSvgContent -replace "\.$originalClass", ".$newClass"
+                }
+                
                 # Write the updated content back to the file
                 Set-Content -Path $svgFile -Value $newSvgContent -Encoding UTF8
-                Write-Host "  Updated file with new IDs"
+                Write-Host "  Updated file with new IDs and classes"
             } else {
-                Write-Host "No ID declarations found in: $svgFile"
+                Write-Host "No ID or class declarations found in: $svgFile"
             }
         }
         catch {
@@ -127,16 +175,20 @@ function Process-SVGIds {
         }
     }
     
-    return $totalIdsFound
+    return @{
+        TotalIds = $totalIdsFound
+        TotalClasses = $totalClassesFound
+    }
 }
 
 # Process all SVG files
 if ($svgFileList.Count -gt 0) {
-    $totalIdsProcessed = Process-SVGIds -SvgFilePaths $svgFileList
+    $results = Process-SVGIdsAndClasses -SvgFilePaths $svgFileList
     Write-Host "`nStep 3 Summary:"
-    Write-Host "Total IDs processed across all SVG files: $totalIdsProcessed"
+    Write-Host "Total IDs processed across all SVG files: $($results.TotalIds)"
+    Write-Host "Total classes processed across all SVG files: $($results.TotalClasses)"
     Write-Host "Total unique GUIDs generated: $($global:usedGuids.Count)"
-    Write-Host "All SVG files have been updated with new unique IDs and all references updated"
+    Write-Host "All SVG files have been updated with new unique IDs, classes, and all references updated"
 } else {
-    Write-Host "No SVG files to process for ID replacement"
+    Write-Host "No SVG files to process for ID and class replacement"
 }
