@@ -1,21 +1,22 @@
 ﻿<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
 	<title>New Project</title>
 	<defs>
-		<linearGradient id="I3ecd971e693047a48cd734185983bf4120250902114251" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(93.884,0,0,93.884,3.058,50)">
+		<linearGradient id="Id920f3860f59483c8b48ff64dd5a512c20250904151153" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(93.884,0,0,93.884,3.058,50)">
 			<stop offset="0" stop-color="#ff0000"/>
 			<stop offset="1" stop-color="#ff4545"/>
 		</linearGradient>
-		<linearGradient id="Icbb16bac7d45443fa09a898be56492c320250902114251" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(93.884,0,0,93.884,3.058,50)">
+		<linearGradient id="Ib01150d88ece49ffbf15c8dd5b04722820250904151153" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(93.884,0,0,93.884,3.058,50)">
 			<stop offset="0" stop-color="#ff0000"/>
 			<stop offset="1" stop-color="#ff4545"/>
 		</linearGradient>
 	</defs>
 	<style>
-		.C7af250af83ba4a1785c719dff103dfdc20250902114251 { fill: url(#I3ecd971e693047a48cd734185983bf4120250902114251) } 
-		.Cd2918fb6ae5049ebad38752c6b70b87020250902114251 { fill: url(#Icbb16bac7d45443fa09a898be56492c320250902114251) } 
+		.Cc94788a18fda419194c5013f1db297bf20250904151153 { fill: url(#Id920f3860f59483c8b48ff64dd5a512c20250904151153) } 
+		.C5ac410b519f949ca8fcc1accc2fc753720250904151153 { fill: url(#Ib01150d88ece49ffbf15c8dd5b04722820250904151153) } 
 	</style>
-	<path id="I3b2ce942e80640b5aac92ee875519ba620250902114251" fill-rule="evenodd" class="C7af250af83ba4a1785c719dff103dfdc20250902114251" d="m25 5.1l69.9 69.9c2.7 2.7 2.7 7.1 0 9.9l-10 10c-2.8 2.7-7.2 2.7-9.9 0l-69.9-69.9c-2.7-2.7-2.7-7.1 0-9.9l10-10c2.8-2.7 7.2-2.7 9.9 0z"/>
-	<path id="Ib253790b6e3942d996cf3811d66cdc3a20250902114251" fill-rule="evenodd" class="Cd2918fb6ae5049ebad38752c6b70b87020250902114251" d="m5.1 75l69.9-69.9c2.7-2.7 7.1-2.7 9.9 0l10 10c2.7 2.8 2.7 7.2 0 9.9l-69.9 69.9c-2.7 2.7-7.1 2.7-9.9 0l-10-10c-2.7-2.8-2.7-7.2 0-9.9z"/>
+	<path id="Icd5b68f1c3344f85b68b3d966f7db31e20250904151153" fill-rule="evenodd" class="Cc94788a18fda419194c5013f1db297bf20250904151153" d="m25 5.1l69.9 69.9c2.7 2.7 2.7 7.1 0 9.9l-10 10c-2.8 2.7-7.2 2.7-9.9 0l-69.9-69.9c-2.7-2.7-2.7-7.1 0-9.9l10-10c2.8-2.7 7.2-2.7 9.9 0z"/>
+	<path id="Idc0928a0c37240e3ac7ccd6c9065191220250904151153" fill-rule="evenodd" class="C5ac410b519f949ca8fcc1accc2fc753720250904151153" d="m5.1 75l69.9-69.9c2.7-2.7 7.1-2.7 9.9 0l10 10c2.7 2.8 2.7 7.2 0 9.9l-69.9 69.9c-2.7 2.7-7.1 2.7-9.9 0l-10-10c-2.7-2.8-2.7-7.2 0-9.9z"/>
 </svg>
+
 
 

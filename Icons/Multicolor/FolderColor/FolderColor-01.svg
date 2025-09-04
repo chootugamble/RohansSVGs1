@@ -1,20 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 9.03 Build 0)  -->
-<svg version="1.1" id="I4471b1451b584407be0049ad5a95333b20250902114251" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Id14f89ffed404baeb7f66223b9528e2b20250904151153" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
-<linearGradient id="I9ade4fa7d9744c6b88c901551dc58fd220250902114251" gradientUnits="userSpaceOnUse" x1="3.796253e-02" y1="50" x2="82.8156" y2="50">
+<linearGradient id="I551c1d8718ae4e1ba06be115a1b008e120250904151153" gradientUnits="userSpaceOnUse" x1="3.796253e-02" y1="50" x2="82.8156" y2="50">
 	<stop  offset="0" style="stop-color:#E1AD31"/>
 	<stop  offset="1" style="stop-color:#E1AD31"/>
 </linearGradient>
-<path fill="url(#I9ade4fa7d9744c6b88c901551dc58fd220250902114251)" d="M47.7,22.2l-9.3-9c-0.7-0.6-1.5-1-2.4-1H3.6c-1.9,0-3.5,1.6-3.5,3.5v68.5c0,1.9,1.6,3.5,3.5,3.5h75.7
+<path fill="url(#I551c1d8718ae4e1ba06be115a1b008e120250904151153)" d="M47.7,22.2l-9.3-9c-0.7-0.6-1.5-1-2.4-1H3.6c-1.9,0-3.5,1.6-3.5,3.5v68.5c0,1.9,1.6,3.5,3.5,3.5h75.7
 	c1.9,0,3.5-1.6,3.5-3.5V26.5c0-1.9-1.6-3.5-3.5-3.5l-29.1,0.1C49.3,23.1,48.4,22.8,47.7,22.2z"/>
-<linearGradient id="Ie65212b7f07a4f66b8eb0807b685c66120250902114251" gradientUnits="userSpaceOnUse" x1="3.796253e-02" y1="63.6348" x2="99.962" y2="63.6348">
+<linearGradient id="Ia06b942d77b54130a25f77f08fce113d20250904151153" gradientUnits="userSpaceOnUse" x1="3.796253e-02" y1="63.6348" x2="99.962" y2="63.6348">
 	<stop  offset="0" style="stop-color:#FFC842"/>
 	<stop  offset="1" style="stop-color:#FFC842"/>
 </linearGradient>
-<path fill="url(#Ie65212b7f07a4f66b8eb0807b685c66120250902114251)" d="M96.2,39.5H21c-1.5,0-2.8,0.9-3.4,2.3L0.3,82.6
+<path fill="url(#Ia06b942d77b54130a25f77f08fce113d20250904151153)" d="M96.2,39.5H21c-1.5,0-2.8,0.9-3.4,2.3L0.3,82.6
 	c-1,2.4,0.8,5.2,3.4,5.2H79c1.5,0,2.8-0.9,3.4-2.3l17.2-40.9C100.7,42.2,98.9,39.5,96.2,39.5z"/>
 </svg>
+
 
 
 
