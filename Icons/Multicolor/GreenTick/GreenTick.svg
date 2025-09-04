@@ -1,21 +1,22 @@
 ﻿<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
 	<title>New Project</title>
 	<defs>
-		<linearGradient id="I97ce7f28c12f47fea3ed394b874a616720250904151153" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(31.673,0,0,38.044,4.12,67.754)">
+		<linearGradient id="Iebd110016bd045e4883fdb23302cd22a20250904154434" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(31.673,0,0,38.044,4.12,67.754)">
 			<stop offset="0" stop-color="#41d400"/>
 			<stop offset="1" stop-color="#2e9800"/>
 		</linearGradient>
-		<linearGradient id="I45c8ef3348124b7cbbf013725b04df0620250904151153" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(75.275,0,0,75.275,20.288,49.648)">
+		<linearGradient id="I90b9fdd6b70a4101a37f26b68af7b09e20250904154434" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(75.275,0,0,75.275,20.288,49.648)">
 			<stop offset="0" stop-color="#2e9600"/>
 			<stop offset="1" stop-color="#42d700"/>
 		</linearGradient>
 	</defs>
 	<style>
-		.C852693dbb9b444d3a5d8e8c0422270b720250904151153 { fill: url(#I97ce7f28c12f47fea3ed394b874a616720250904151153) } 
-		.Ce2132a417a9c4c928afc4284b1061e7420250904151153 { fill: url(#I45c8ef3348124b7cbbf013725b04df0620250904151153) } 
+		.Cb8f3077d98e147b3a8a720cd8e469cf620250904154434 { fill: url(#Iebd110016bd045e4883fdb23302cd22a20250904154434) } 
+		.C7dabc99d02364076b171f1105afc033f20250904154434 { fill: url(#I90b9fdd6b70a4101a37f26b68af7b09e20250904154434) } 
 	</style>
-	<path id="I58642066838a4500ab1a1fc6959d88e920250904151153" fill-rule="evenodd" class="C852693dbb9b444d3a5d8e8c0422270b720250904151153" d="m6.6 51.1l1.8-1.2c2.7-2 6.4-1.4 8.4 1.3l17.9 24.8c1.9 2.7 1.3 6.4-1.4 8.4l-1.8 1.2c-2.6 2-6.4 1.4-8.3-1.3l-17.9-24.8c-2-2.7-1.4-6.4 1.3-8.4z"/>
-	<path id="I314fff02a9fe4a99a34fc86d75c099de20250904151153" fill-rule="evenodd" class="Ce2132a417a9c4c928afc4284b1061e7420250904151153" d="m92.3 13.8l1.5 1.5c2.3 2.4 2.3 6.2 0 8.5l-61.7 61.7c-2.4 2.4-6.2 2.4-8.5 0l-1.6-1.5c-2.3-2.4-2.3-6.2 0-8.5l61.8-61.7c2.3-2.4 6.1-2.4 8.5 0z"/>
+	<path id="I6ac144e30f46452483847fe54511452f20250904154434" fill-rule="evenodd" class="Cb8f3077d98e147b3a8a720cd8e469cf620250904154434" d="m6.6 51.1l1.8-1.2c2.7-2 6.4-1.4 8.4 1.3l17.9 24.8c1.9 2.7 1.3 6.4-1.4 8.4l-1.8 1.2c-2.6 2-6.4 1.4-8.3-1.3l-17.9-24.8c-2-2.7-1.4-6.4 1.3-8.4z"/>
+	<path id="I68ddabc761094e6ca6860792dc4d11df20250904154434" fill-rule="evenodd" class="C7dabc99d02364076b171f1105afc033f20250904154434" d="m92.3 13.8l1.5 1.5c2.3 2.4 2.3 6.2 0 8.5l-61.7 61.7c-2.4 2.4-6.2 2.4-8.5 0l-1.6-1.5c-2.3-2.4-2.3-6.2 0-8.5l61.8-61.7c2.3-2.4 6.1-2.4 8.5 0z"/>
 </svg>
+
 
 

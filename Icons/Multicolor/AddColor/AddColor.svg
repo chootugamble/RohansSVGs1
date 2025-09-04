@@ -1,20 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 9.03 Build 0)  -->
-<svg version="1.1" id="I827ba1134f0b49a5ae7b44e82e78533a20250904151152" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="I37f8d9c26ac04ac48f6d86268b92b55d20250904154434" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
-<linearGradient id="Iabec315b619e42f6b4c3420c184808b420250904151152" gradientUnits="userSpaceOnUse" x1="49.9999" y1="50.0398" x2="49.9202" y2="71.2123">
+<linearGradient id="If5888bc5e84e46078326cda1526d66a420250904154434" gradientUnits="userSpaceOnUse" x1="49.9999" y1="50.0398" x2="49.9202" y2="71.2123">
 	<stop  offset="0" style="stop-color:#7F52A1"/>
 	<stop  offset="1" style="stop-color:#7D4B9E"/>
 </linearGradient>
-<path fill="url(#Iabec315b619e42f6b4c3420c184808b420250904151152)" d="M57.6,100H42.4c-1.7,0-3-1.3-3-3V3c0-1.7,1.3-3,3-3h15.2c1.7,0,3,1.3,3,3v94
+<path fill="url(#If5888bc5e84e46078326cda1526d66a420250904154434)" d="M57.6,100H42.4c-1.7,0-3-1.3-3-3V3c0-1.7,1.3-3,3-3h15.2c1.7,0,3,1.3,3,3v94
 	C60.6,98.7,59.2,100,57.6,100z"/>
-<linearGradient id="Ic2aeb085a89c412b9643978714d989ee20250904151152" gradientUnits="userSpaceOnUse" x1="50.0405" y1="39.2378" x2="49.9595" y2="60.7622">
+<linearGradient id="I3d40d83ee4b74b0280441616dab5595720250904154434" gradientUnits="userSpaceOnUse" x1="50.0405" y1="39.2378" x2="49.9595" y2="60.7622">
 	<stop  offset="0" style="stop-color:#7F52A1"/>
 	<stop  offset="1" style="stop-color:#7D4B9E"/>
 </linearGradient>
-<path fill="url(#Ic2aeb085a89c412b9643978714d989ee20250904151152)" d="M0,57.6V42.4c0-1.7,1.3-3,3-3h94c1.7,0,3,1.3,3,3
+<path fill="url(#I3d40d83ee4b74b0280441616dab5595720250904154434)" d="M0,57.6V42.4c0-1.7,1.3-3,3-3h94c1.7,0,3,1.3,3,3
 	v15.2c0,1.7-1.3,3-3,3H3C1.3,60.6,0,59.2,0,57.6z"/>
 </svg>
+
 
 
 

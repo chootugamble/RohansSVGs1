@@ -1,12 +1,13 @@
 ﻿<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
 	<title>New Project</title>
 	<style>
-		.Cf5560b27c64d4abf873f37eec5b3078020250904151152 { fill: none;stroke: currentcolor;stroke-miterlimit:100;stroke-width: 10 } 
+		.C2a12e27a38744a7bb375fcf83df8934220250904154434 { fill: none;stroke: currentcolor;stroke-miterlimit:100;stroke-width: 10 } 
 	</style>
-	<path id="I32b18b68fbc14e94a961281f4b675f9a20250904151152" fill-rule="evenodd" class="Cf5560b27c64d4abf873f37eec5b3078020250904151152" d="m100 0v100h-100v-100z"/>
-	<path id="Ia826c9f583874398aaec4450a29666e620250904151152" class="Cf5560b27c64d4abf873f37eec5b3078020250904151152" d="m52 20v60h-5v-60zm0 0v60h-5v-60z"/>
-	<path id="I022cb27f274d49708ce47ecc57647de220250904151152" fill-rule="evenodd" class="Cf5560b27c64d4abf873f37eec5b3078020250904151152" d="m80 47v5h-60v-5z"/>
+	<path id="If57122d22ac641e2947080a13d8adb5920250904154434" fill-rule="evenodd" class="C2a12e27a38744a7bb375fcf83df8934220250904154434" d="m100 0v100h-100v-100z"/>
+	<path id="I622c77f9ef5f4c25959493d59764218d20250904154434" class="C2a12e27a38744a7bb375fcf83df8934220250904154434" d="m52 20v60h-5v-60zm0 0v60h-5v-60z"/>
+	<path id="I5d4891e93cc545ab896e61622bf3019420250904154434" fill-rule="evenodd" class="C2a12e27a38744a7bb375fcf83df8934220250904154434" d="m80 47v5h-60v-5z"/>
 </svg>
+
 
 
 
