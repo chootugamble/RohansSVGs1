@@ -1,11 +1,12 @@
 ﻿<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
 	<title>New Project</title>
 	<style>
-		.C5f870f4c617e437f9ac43ef81ecbd0bd20251030124107 { fill: currentcolor } 
+		.C834fbfd5bee64c65abe947bbd58caab220251030142522 { fill: currentcolor } 
 	</style>
-	<path id="I78f49c67c3604928a8e51f49301fabbb20251030124107" fill-rule="evenodd" class="C5f870f4c617e437f9ac43ef81ecbd0bd20251030124107" d="m52 10v80h-4v-80z"/>
-	<path id="I3dbd2a487e394febb4a3aa3309bcd0bb20251030124107" fill-rule="evenodd" class="C5f870f4c617e437f9ac43ef81ecbd0bd20251030124107" d="m90 48v4h-80v-4z"/>
+	<path id="I63e98d06afd74455a4fc1d7b7959e45820251030142522" fill-rule="evenodd" class="C834fbfd5bee64c65abe947bbd58caab220251030142522" d="m52 10v80h-4v-80z"/>
+	<path id="I7c7f019b6df743a288c00d3ecd35d3bb20251030142522" fill-rule="evenodd" class="C834fbfd5bee64c65abe947bbd58caab220251030142522" d="m90 48v4h-80v-4z"/>
 </svg>
+
 
 
 

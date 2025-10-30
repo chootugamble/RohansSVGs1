@@ -1,23 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 9.03 Build 0)  -->
-<svg version="1.1" id="Icac8c56067c44401becdfab65aaa5cec20251030124107" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Iff27026c39354e08809f451d036983e320251030142522" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
-<linearGradient id="Iab723f6d770b4fb9a309bd5faa82e6e420251030124107" gradientUnits="userSpaceOnUse" x1="10.1756" y1="48.2579" x2="100" y2="48.2579">
+<linearGradient id="I339bfade1d51490c9501bfa83a53e37920251030142522" gradientUnits="userSpaceOnUse" x1="10.1756" y1="48.2579" x2="100" y2="48.2579">
 	<stop  offset="0" style="stop-color:#489DD7"/>
 	<stop  offset="1" style="stop-color:#3278BD"/>
 </linearGradient>
-<rect x="10.2" y="19.6" fill="url(#Iab723f6d770b4fb9a309bd5faa82e6e420251030124107)" width="89.8" height="57.3"/>
-<linearGradient id="I11d9d3b91872454fae83d7546c25288620251030124107" gradientUnits="userSpaceOnUse" x1="10.1756" y1="11.5366" x2="100" y2="11.5366">
+<rect x="10.2" y="19.6" fill="url(#I339bfade1d51490c9501bfa83a53e37920251030142522)" width="89.8" height="57.3"/>
+<linearGradient id="I02decb87a67e4f62a5450b53e196d97e20251030142522" gradientUnits="userSpaceOnUse" x1="10.1756" y1="11.5366" x2="100" y2="11.5366">
 	<stop  offset="0" style="stop-color:#2A75BB"/>
 	<stop  offset="1" style="stop-color:#0A5AA3"/>
 </linearGradient>
-<rect x="10.2" y="3.5" fill="url(#I11d9d3b91872454fae83d7546c25288620251030124107)" width="89.8" height="16.2"/>
+<rect x="10.2" y="3.5" fill="url(#I02decb87a67e4f62a5450b53e196d97e20251030142522)" width="89.8" height="16.2"/>
 <polygon fill="#75CFEB" points="41.4,44.1 0,86.5 9.8,96.5 51.2,54.1 "/>
 <ellipse fill="#75CFEB" cx="17.9" cy="11.5" rx="4.1" ry="4.2"/>
 <polygon fill="#75CFEB" points="51.2,44.1 51,73 23,44.3 "/>
 <ellipse fill="#75CFEB" cx="29.3" cy="11.5" rx="4.1" ry="4.2"/>
 <rect x="36.6" y="7.8" fill="#75CFEB" width="59" height="7.4"/>
 </svg>
+
 
 
 
