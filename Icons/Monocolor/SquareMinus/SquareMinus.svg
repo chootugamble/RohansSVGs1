@@ -1,11 +1,12 @@
 ﻿<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
 	<title>New Project</title>
 	<style>
-		.C14b2c95d444d46958d229013bd0f8d4420251030142522 { fill: none;stroke: currentcolor;stroke-miterlimit:100;stroke-width: 10 } 
+		.C399cd695ae474046a3d5c6ef355f315420251030150142 { fill: none;stroke: currentcolor;stroke-miterlimit:100;stroke-width: 10 } 
 	</style>
-	<path id="I4065c03ab1a947c19de5ffd7dc40468920251030142522" fill-rule="evenodd" class="C14b2c95d444d46958d229013bd0f8d4420251030142522" d="m100 0v100h-100v-100z"/>
-	<path id="I8dc7d601217a4ffa996a4f8f50f9ed3320251030142522" fill-rule="evenodd" class="C14b2c95d444d46958d229013bd0f8d4420251030142522" d="m80 47v5h-60v-5z"/>
+	<path id="I8c7acca6cc19446c96ae0e348e8610bd20251030150142" fill-rule="evenodd" class="C399cd695ae474046a3d5c6ef355f315420251030150142" d="m100 0v100h-100v-100z"/>
+	<path id="I844c158db42d41c18c8e7065e3a0525c20251030150142" fill-rule="evenodd" class="C399cd695ae474046a3d5c6ef355f315420251030150142" d="m80 47v5h-60v-5z"/>
 </svg>
+
 
 
 
