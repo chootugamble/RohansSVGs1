@@ -1,9 +1,11 @@
 ﻿<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
 	<title>New Project</title>
 	<style>
-		.C8ff46437649444b5af0bd8199bc3005920250904154434 { fill: none;stroke: currentcolor;stroke-miterlimit:100;stroke-width: 7 } 
-		.Cc4a1e11e33184dea927faf16cdb26b8420250904154434 { fill: currentcolor } 
+		.C89f12c3fd9be43079e5723914fb46a2c20251030124107 { fill: none;stroke: currentcolor;stroke-miterlimit:100;stroke-width: 7 } 
+		.C1a2a152cf3564dc286fb0704450508df20251030124107 { fill: currentcolor } 
 	</style>
-	<path id="Iaf813dbdf7e64b2e8a4ca1edf21910fd20250904154434" fill-rule="evenodd" class="C8ff46437649444b5af0bd8199bc3005920250904154434" d="m40.39 68.77c-17.36 0-31.39-14.03-31.39-31.38 0-17.36 14.03-31.39 31.39-31.39 17.35 0 31.38 14.03 31.38 31.39 0 17.35-14.03 31.38-31.38 31.38z"/>
-	<path id="If352aa9376c64d108c728dc15d4e5ef720250904154434" fill-rule="evenodd" class="Cc4a1e11e33184dea927faf16cdb26b8420250904154434" d="m66.67 58.34l25.1 28.08-9.36 8.37-25.1-28.09z"/>
+	<path id="I47c80344f23949638d62b84c7333e46020251030124107" fill-rule="evenodd" class="C89f12c3fd9be43079e5723914fb46a2c20251030124107" d="m40.39 68.77c-17.36 0-31.39-14.03-31.39-31.38 0-17.36 14.03-31.39 31.39-31.39 17.35 0 31.38 14.03 31.38 31.39 0 17.35-14.03 31.38-31.38 31.38z"/>
+	<path id="If3c3318436c64dee809f0cdaff09a60220251030124107" fill-rule="evenodd" class="C1a2a152cf3564dc286fb0704450508df20251030124107" d="m66.67 58.34l25.1 28.08-9.36 8.37-25.1-28.09z"/>
 </svg>
+
+
