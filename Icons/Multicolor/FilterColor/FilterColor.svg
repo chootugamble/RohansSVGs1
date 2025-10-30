@@ -1,69 +1,70 @@
 ﻿<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
 	<title>New Project</title>
 	<defs>
-		<linearGradient id="I1a26ed197720427ab22e68627eb3902020251030150142" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-5,50,0,75,21)">
+		<linearGradient id="I6c80e6d3057843589b537bc401c2028c20251030155105" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-5,50,0,75,21)">
 			<stop offset="0" stop-color="#8c8d8d"/>
 			<stop offset=".02" stop-color="#8c8d8d"/>
 			<stop offset="1" stop-color="#cdcdcd"/>
 		</linearGradient>
-		<linearGradient id="I6a95f1c95bff481a8789853fbfc4fb1020251030150142" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-5,50,0,88,52)">
+		<linearGradient id="I04ad7c687a2748e6add897d4942edd8b20251030155105" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-5,50,0,88,52)">
 			<stop offset="0" stop-color="#8c8d8d"/>
 			<stop offset=".02" stop-color="#8c8d8d"/>
 			<stop offset="1" stop-color="#cdcdcd"/>
 		</linearGradient>
-		<linearGradient id="I172e2954d5484d4db1c982a88addcad920251030150142" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-5,50,0,75,85)">
+		<linearGradient id="Id9b762c045e34846a9a2154a1e5d7ff520251030155105" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-5,50,0,75,85)">
 			<stop offset="0" stop-color="#8c8d8d"/>
 			<stop offset=".02" stop-color="#8c8d8d"/>
 			<stop offset="1" stop-color="#cdcdcd"/>
 		</linearGradient>
-		<linearGradient id="I917db5ccb92a46edaa235450adb05a3b20251030150142" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-5,50,0,25,21)">
+		<linearGradient id="I7cd62f16bcf74671b19c0a0f705da27f20251030155105" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-5,50,0,25,21)">
 			<stop offset="0" stop-color="#00a4a2"/>
 			<stop offset="1" stop-color="#1afffb"/>
 		</linearGradient>
-		<linearGradient id="Iaed467e34e454c03b9d944fe9f00dc2b20251030150142" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-5,50,0,25,85)">
+		<linearGradient id="Ieaabadab13714e38bce8b383ebad2c6f20251030155105" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-5,50,0,25,85)">
 			<stop offset="0" stop-color="#00a4a2"/>
 			<stop offset="1" stop-color="#1afffb"/>
 		</linearGradient>
-		<linearGradient id="Ia27df29dff27449680277a6bd282ead920251030150142" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-5,80,0,40,52)">
+		<linearGradient id="I67e78ce192274abb9e1655e2f0b7a1ef20251030155105" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-5,80,0,40,52)">
 			<stop offset="0" stop-color="#00a4a2"/>
 			<stop offset="1" stop-color="#1afffb"/>
 		</linearGradient>
-		<linearGradient id="I2fedbea9e23f40909c2fe55d88a9674120251030150142" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-15,5,0,49.5,26)">
+		<linearGradient id="Ibf41d0d7c8e3447c9e9c29d31656ef4e20251030155105" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-15,5,0,49.5,26)">
 			<stop offset="0" stop-color="#00dedb"/>
 			<stop offset="1" stop-color="#008583"/>
 		</linearGradient>
-		<linearGradient id="Ifafb1c7b05c54beeb29e27c91fc2920320251030150142" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-15,5,0,81.5,57)">
+		<linearGradient id="Ib07fbebd01c843e992a89145f13d784820251030155105" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-15,5,0,81.5,57)">
 			<stop offset="0" stop-color="#00dedb"/>
 			<stop offset="1" stop-color="#008583"/>
 		</linearGradient>
-		<linearGradient id="Ia60499138d6f44aeb08121b6b87d5e5220251030150142" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-15,5,0,49.5,90)">
+		<linearGradient id="Ie6626f84f24746468e115117d0f94d7b20251030155105" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-15,5,0,49.5,90)">
 			<stop offset="0" stop-color="#00dedb"/>
 			<stop offset="1" stop-color="#008583"/>
 		</linearGradient>
 	</defs>
 	<style>
-		.C4ebfdcce8765452285b7612c51b320e320251030150142 { fill: #000000 } 
-		.Caffff7e068b2490fb42616d00bed5b6a20251030150142 { fill: url(#I1a26ed197720427ab22e68627eb3902020251030150142) } 
-		.Cb76d8c83cfce4298a136f957800f73a920251030150142 { fill: url(#I6a95f1c95bff481a8789853fbfc4fb1020251030150142) } 
-		.C5331464262d3483887cb784174467d5320251030150142 { fill: url(#I172e2954d5484d4db1c982a88addcad920251030150142) } 
-		.Cbd586a54cd094328ab656f7c1bf5616420251030150142 { fill: url(#I917db5ccb92a46edaa235450adb05a3b20251030150142) } 
-		.C2566251bdc914ec0b29ba59e1666c72320251030150142 { fill: url(#Iaed467e34e454c03b9d944fe9f00dc2b20251030150142) } 
-		.Cafacae217df2427ead6e3323625e885120251030150142 { fill: url(#Ia27df29dff27449680277a6bd282ead920251030150142) } 
-		.Cfca17dd0a22240898caf619e868d14f620251030150142 { fill: url(#I2fedbea9e23f40909c2fe55d88a9674120251030150142) } 
-		.C12c08ea57f2847f9aa55ea0a1c8f2e7320251030150142 { fill: url(#Ifafb1c7b05c54beeb29e27c91fc2920320251030150142) } 
-		.C23cb54b3d3bb4e87bbabbbc91a7a63a520251030150142 { fill: url(#Ia60499138d6f44aeb08121b6b87d5e5220251030150142) } 
+		.C54695d87cb5049568ab82971987cfd9720251030155105 { fill: #000000 } 
+		.C1785d9f781e742abac365192da54d37d20251030155105 { fill: url(#I6c80e6d3057843589b537bc401c2028c20251030155105) } 
+		.C927cb20f6f08425cb8f940c1df7749b520251030155105 { fill: url(#I04ad7c687a2748e6add897d4942edd8b20251030155105) } 
+		.Ca934bd3d156c4fcfbeef9ee8a3cdf19020251030155105 { fill: url(#Id9b762c045e34846a9a2154a1e5d7ff520251030155105) } 
+		.Cd780976d5d3f478f840ef3e03633a35120251030155105 { fill: url(#I7cd62f16bcf74671b19c0a0f705da27f20251030155105) } 
+		.Cfafdf7147bcf417a95641b71ab13f9ba20251030155105 { fill: url(#Ieaabadab13714e38bce8b383ebad2c6f20251030155105) } 
+		.Cc9d82f8eb5fa471c800f3e5f266e462820251030155105 { fill: url(#I67e78ce192274abb9e1655e2f0b7a1ef20251030155105) } 
+		.Cde19a865e5a742b88419b01e5220dd7220251030155105 { fill: url(#Ibf41d0d7c8e3447c9e9c29d31656ef4e20251030155105) } 
+		.Caedf6584ddc04baebea0186c1521919a20251030155105 { fill: url(#Ib07fbebd01c843e992a89145f13d784820251030155105) } 
+		.C264e4b1554fa487980c6e3f72041300320251030155105 { fill: url(#Ie6626f84f24746468e115117d0f94d7b20251030155105) } 
 	</style>
-	<path id="I6a31f1357b2242e5ae339fbe940418d420251030150142" class="C4ebfdcce8765452285b7612c51b320e320251030150142" d=""/>
-	<path id="I9d144053358b4a43a65cdafac2671b5720251030150142" fill-rule="evenodd" class="Caffff7e068b2490fb42616d00bed5b6a20251030150142" d="m100 16v5h-50v-5z"/>
-	<path id="I50860cbb40054e59a9228f1b8f35fbc020251030150142" fill-rule="evenodd" class="Cb76d8c83cfce4298a136f957800f73a920251030150142" d="m113 47v5h-50v-5z"/>
-	<path id="Iba459a001d3549fc81e4dc95df8c030120251030150142" fill-rule="evenodd" class="C5331464262d3483887cb784174467d5320251030150142" d="m100 80v5h-50v-5z"/>
-	<path id="I1ca246bd79644b0da5a37e0bfaa4efc120251030150142" fill-rule="evenodd" class="Cbd586a54cd094328ab656f7c1bf5616420251030150142" d="m50 16v5h-50v-5z"/>
-	<path id="Ibcaa680c492d45c28fb8177f8cb5045020251030150142" fill-rule="evenodd" class="C2566251bdc914ec0b29ba59e1666c72320251030150142" d="m50 80v5h-50v-5z"/>
-	<path id="Ib2387e235bc74759be7d749a1801fabc20251030150142" fill-rule="evenodd" class="Cafacae217df2427ead6e3323625e885120251030150142" d="m80 47v5h-80v-5z"/>
-	<path id="Idc4ea6efd42644b1bd2ba41550a92c0720251030150142" fill-rule="evenodd" class="Cfca17dd0a22240898caf619e868d14f620251030150142" d="m52 11v15h-5v-15z"/>
-	<path id="I7e015c6a65a54e9e9ab7b899051cc8ee20251030150142" fill-rule="evenodd" class="C12c08ea57f2847f9aa55ea0a1c8f2e7320251030150142" d="m84 42v15h-5v-15z"/>
-	<path id="I24084ebd89994489aafc04a4e5aeeb4220251030150142" fill-rule="evenodd" class="C23cb54b3d3bb4e87bbabbbc91a7a63a520251030150142" d="m52 75v15h-5v-15z"/>
+	<path id="I1dadff5a6f9c4ea891c10e972d800c4520251030155105" class="C54695d87cb5049568ab82971987cfd9720251030155105" d=""/>
+	<path id="Ibe64ebb3b4494ca9ae8702fbde41f5d320251030155105" fill-rule="evenodd" class="C1785d9f781e742abac365192da54d37d20251030155105" d="m100 16v5h-50v-5z"/>
+	<path id="Ice822ab033564510a544409ac57371fa20251030155105" fill-rule="evenodd" class="C927cb20f6f08425cb8f940c1df7749b520251030155105" d="m113 47v5h-50v-5z"/>
+	<path id="Ifa76da45bb254bfc8e4a9473e33a690a20251030155105" fill-rule="evenodd" class="Ca934bd3d156c4fcfbeef9ee8a3cdf19020251030155105" d="m100 80v5h-50v-5z"/>
+	<path id="I53bb6956a3e84d3c944384d192c78ad520251030155105" fill-rule="evenodd" class="Cd780976d5d3f478f840ef3e03633a35120251030155105" d="m50 16v5h-50v-5z"/>
+	<path id="I1e253abd6623426483b66d07056f61d720251030155105" fill-rule="evenodd" class="Cfafdf7147bcf417a95641b71ab13f9ba20251030155105" d="m50 80v5h-50v-5z"/>
+	<path id="I2db59dea31764137a1a637f33e1b3b6f20251030155105" fill-rule="evenodd" class="Cc9d82f8eb5fa471c800f3e5f266e462820251030155105" d="m80 47v5h-80v-5z"/>
+	<path id="I3e898bd246204e4bab60f08e9f5533c920251030155105" fill-rule="evenodd" class="Cde19a865e5a742b88419b01e5220dd7220251030155105" d="m52 11v15h-5v-15z"/>
+	<path id="I3a29cd02c0c54950a8f18294be28d94b20251030155105" fill-rule="evenodd" class="Caedf6584ddc04baebea0186c1521919a20251030155105" d="m84 42v15h-5v-15z"/>
+	<path id="I892b3747f74449ef91a69b035ebb17b620251030155105" fill-rule="evenodd" class="C264e4b1554fa487980c6e3f72041300320251030155105" d="m52 75v15h-5v-15z"/>
 </svg>
+
 
 
 
