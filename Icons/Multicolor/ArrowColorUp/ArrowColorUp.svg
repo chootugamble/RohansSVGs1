@@ -1,31 +1,32 @@
 ﻿<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
 	<title>New Project</title>
 	<defs>
-		<linearGradient id="I6db93ab29dd8444a9181ba91367d3b1a20251030155105" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-85.881,26.838,0,50.013,98.523)">
+		<linearGradient id="I0ebf7f4f465748c3861f2280f553042c20251030195520" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-85.881,26.838,0,50.013,98.523)">
 			<stop offset="0" stop-color="#00fff0"/>
 			<stop offset=".616" stop-color="#0a988f"/>
 			<stop offset="1" stop-color="#0a988f"/>
 		</linearGradient>
-		<linearGradient id="I2bf3e3cac8f44f0193a159cb9ea55fb820251030155105" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(60.727,0,0,60.727,35.52,30.982)">
+		<linearGradient id="Ib1c024060f114ddf8d6d6a86b9021dcb20251030195520" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(60.727,0,0,60.727,35.52,30.982)">
 			<stop offset="0" stop-color="#0a988f"/>
 			<stop offset=".505" stop-color="#0a988f"/>
 			<stop offset="1" stop-color="#00fff0"/>
 		</linearGradient>
-		<linearGradient id="If4cb09cb2cc542c8b47a58ace5c453c420251030155105" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(60.727,0,0,60.727,3.836,31.027)">
+		<linearGradient id="Iddbb8d09d48f4a5383b8f5cab3e7e8bf20251030195520" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(60.727,0,0,60.727,3.836,31.027)">
 			<stop offset="0" stop-color="#00fff0"/>
 			<stop offset=".575" stop-color="#0a988f"/>
 			<stop offset="1" stop-color="#0a988f"/>
 		</linearGradient>
 	</defs>
 	<style>
-		.C149bf4bfa11b405fb0f5f2a22b455af220251030155105 { fill: url(#I6db93ab29dd8444a9181ba91367d3b1a20251030155105) } 
-		.C69ac90e3d0bb4ea384860563a779596120251030155105 { fill: url(#I2bf3e3cac8f44f0193a159cb9ea55fb820251030155105) } 
-		.Cecef81c44d8a42a587ff335b4ee882a820251030155105 { fill: url(#If4cb09cb2cc542c8b47a58ace5c453c420251030155105) } 
+		.C9e276c0fe0fe422e8476bd2e940dc99120251030195520 { fill: url(#I0ebf7f4f465748c3861f2280f553042c20251030195520) } 
+		.Cc28c2ab0bb9749888a836b57a71d007820251030195520 { fill: url(#Ib1c024060f114ddf8d6d6a86b9021dcb20251030195520) } 
+		.C94cf3a4fc2454e0f9e35ff76ef49a0fe20251030195520 { fill: url(#Iddbb8d09d48f4a5383b8f5cab3e7e8bf20251030195520) } 
 	</style>
-	<path id="Ib52982ad34694c7ca6f0169871a56f7920251030155105" fill-rule="evenodd" class="C149bf4bfa11b405fb0f5f2a22b455af220251030155105" d="m63.43 13.5v85.88h-26.84v-85.88z"/>
-	<path id="I3af7d197dbb44e5b9ebe641dfabe377220251030155105" fill-rule="evenodd" class="C69ac90e3d0bb4ea384860563a779596120251030155105" d="m50.7 0.62l45.55 45.54-15.18 15.19-45.55-45.55z"/>
-	<path id="I87494727acf24cc382189d7bff303de220251030155105" fill-rule="evenodd" class="Cecef81c44d8a42a587ff335b4ee882a820251030155105" d="m64.56 15.85l-45.54 45.54-15.18-15.18 45.54-45.55z"/>
+	<path id="I28b6e82157bc48cdaf4c8fec3f8a2bc920251030195520" fill-rule="evenodd" class="C9e276c0fe0fe422e8476bd2e940dc99120251030195520" d="m63.43 13.5v85.88h-26.84v-85.88z"/>
+	<path id="I1fc2a072d91e429b813526f539731ef920251030195520" fill-rule="evenodd" class="Cc28c2ab0bb9749888a836b57a71d007820251030195520" d="m50.7 0.62l45.55 45.54-15.18 15.19-45.55-45.55z"/>
+	<path id="I6645f39243194441912bd9ed5c38186620251030195520" fill-rule="evenodd" class="C94cf3a4fc2454e0f9e35ff76ef49a0fe20251030195520" d="m64.56 15.85l-45.54 45.54-15.18-15.18 45.54-45.55z"/>
 </svg>
+
 
 
 

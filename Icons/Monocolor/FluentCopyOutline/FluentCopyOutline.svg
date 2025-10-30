@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="If51eb54e5df74f69b862b6e036d7d82720251030195519"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   sodipodi:docname="output.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="Ie1cb3d2e586e437b8de747d69fa9aca020251030195519" />
+  <sodipodi:namedview
+     id="I80e07e9f4943418298d8334293909da920251030195519"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="Ie887f40d9c23475d89115196465ee17320251030195519"
+       width="100"
+       height="100"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="I12d9f1ef735d4030bc32761f89e811d920251030195519"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="If0d31be0d1ef4b2492bb024e477a3cfd20251030195519"
+       d="m 17.195,14.461 -0.007,6.633 v 32.824 c 0,5.609 4.546,10.156 10.156,10.156 l 26.926,0.004 c -0.965,2.731 -3.571,4.684 -6.629,4.684 H 27.344 C 19.145,68.762 12.5,62.117 12.5,53.918 V 21.094 c 0,-3.067 1.961,-5.672 4.695,-6.633 z M 55.469,6.25 c 3.883,0 7.031,3.148 7.031,7.031 v 40.625 c 0,3.883 -3.148,7.032 -7.031,7.032 H 27.344 c -3.883,0 -7.032,-3.149 -7.032,-7.032 V 13.281 c 0,-3.883 3.149,-7.031 7.032,-7.031 z m 0,4.688 H 27.344 c -1.293,0 -2.344,1.05 -2.344,2.343 v 40.625 c 0,1.293 1.051,2.344 2.344,2.344 h 28.125 c 1.293,0 2.343,-1.051 2.343,-2.344 V 13.281 c 0,-1.293 -1.05,-2.343 -2.343,-2.343 z"
+       style="fill:#212121;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1.3333333)" />
+  </g>
+</svg>
+

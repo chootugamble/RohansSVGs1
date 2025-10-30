@@ -1,5 +1,0 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" width="100" height="100">
-    <path fill-rule="evenodd" d="M15 5h20v90H15C9.5 95 5 90.5 5 85V15C5 9.5 9.5 5 15 5z" style="fill:#00319e"/>
-    <path fill-rule="evenodd" d="M65 5v90H35V5z" style="fill:#fff"/>
-    <path fill-rule="evenodd" d="M85 5c5.5 0 10 4.5 10 10v70c0 5.5-4.5 10-10 10H65V5z" style="fill:#e02112"/>
-</svg>
