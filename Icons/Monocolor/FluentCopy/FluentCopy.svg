@@ -3,7 +3,7 @@
 
 <svg
    version="1.1"
-   id="I0d2699a8871f45f28ed5b883112ca9ee20251030195519"
+   id="Iae0ffff5e75e45b89e0bfb047a070f4c20251031115229"
    width="100"
    height="100"
    viewBox="0 0 100 100"
@@ -13,9 +13,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="Id2bbc444562b4d7182e8f204e9d874e920251030195519" />
+     id="If0db82b7d52448f485888481db8f93e220251031115229" />
   <sodipodi:namedview
-     id="I2b763d7ff1594a378898a483ee140d6620251030195519"
+     id="Ie184e65835494b63921dbbd50c0eac7720251031115229"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -27,21 +27,23 @@
        x="0"
        y="0"
        inkscape:label="1"
-       id="I7e32fa5ecb57437584f92d47d3e3e9fe20251030195519"
+       id="I6a8d51fafe4f4086b7ebde91c4b29b9220251031115229"
        width="100"
        height="100"
        margin="0"
        bleed="0" />
   </sodipodi:namedview>
   <g
-     id="Icb30b38f12be4e489c05e2e55b02225520251030195519"
+     id="I0c74b87b779f4e55a241c65547a0a33c20251031115229"
      inkscape:groupmode="layer"
      inkscape:label="1">
     <path
-       id="Ieb92ff0f2e7a41e396d296be96dc8ff220251030195519"
+       id="I0ac56436ca1342a495af3b13ef67619f20251031115229"
        d="m 17.195,14.461 -0.007,6.633 v 32.824 c 0,5.609 4.546,10.156 10.156,10.156 l 26.926,0.004 c -0.965,2.731 -3.571,4.684 -6.629,4.684 H 27.344 C 19.145,68.762 12.5,62.117 12.5,53.918 V 21.094 c 0,-3.067 1.961,-5.672 4.695,-6.633 z M 55.469,6.25 c 3.883,0 7.031,3.148 7.031,7.031 v 40.625 c 0,3.883 -3.148,7.032 -7.031,7.032 H 27.344 c -3.883,0 -7.032,-3.149 -7.032,-7.032 V 13.281 c 0,-3.883 3.149,-7.031 7.032,-7.031 z"
        style="fill:#212121;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
   </g>
 </svg>
+
+
 

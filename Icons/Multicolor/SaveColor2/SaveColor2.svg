@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="If772d70c9d9047d591301f521e7d385420251031115230"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   sodipodi:docname="output.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="I208df6070bd34395b689c3c9566c8a0b20251031115230" />
+  <sodipodi:namedview
+     id="I0bc12a80cb7141f8936cfb5905c3c55920251031115230"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="I6e4b5636b1c940ebb5ad2268d9435e3020251031115230"
+       width="100"
+       height="100"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="I3f540ab10ad441b0bf5128e228db1c8a20251031115230"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="Iba53ab31ebfb4c98a17bd50cf33742b720251031115230"
+       d="m 66.414,0 h -4.168 v 0.012 c 0,0.828 -0.672,1.5 -1.5,1.5 H 14.254 c -0.828,0 -1.5,-0.672 -1.5,-1.5 L 12.754,0 H 3.008 c -1.656,0 -3,1.344 -3,3 v 69 c 0,1.656 1.344,3 3,3 h 68.988 c 1.656,0 3,-1.344 3,-3 V 8.641 C 75.031,8.574 66.418,0.055 66.414,0 Z"
+       style="fill:#23475f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1.3333333)" />
+    <path
+       id="I8c1418c885b1427d898e2763b7ab9db620251031115230"
+       d="m 60.777,39.754 h -46.55 c -0.829,0 -1.5,0.672 -1.5,1.5 V 75 h 49.55 V 41.254 c 0,-0.828 -0.672,-1.5 -1.5,-1.5 z M 14.316,32.258 h 46.368 c 0.832,0 1.5,-0.672 1.5,-1.5 V 0.418 C 62.008,1.062 61.418,1.512 60.746,1.512 H 14.254 c -0.688,0 -1.258,-0.465 -1.438,-1.094 v 30.34 c 0,0.828 0.672,1.5 1.5,1.5 z"
+       style="fill:#1c3c50;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1.3333333)" />
+    <path
+       id="I3730f2cfe55749a090d7acffce98f5c620251031115230"
+       d="M 16.504,41.98 H 58.5 c 0.828,0 1.496,0.672 1.496,1.5 v 27.77 c 0,0.828 -0.668,1.5 -1.496,1.5 H 16.504 c -0.828,0 -1.5,-0.297 -1.5,-1.125 V 43.48 c 0,-0.828 0.672,-1.5 1.5,-1.5 z"
+       style="fill:#ebf0f1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1.3333333)" />
+    <path
+       id="I15b4e9448134434e8344160f9fbf4ca820251031115230"
+       d="M 18.754,57.754 H 56.25 v 0.75 H 18.754 Z m 0,7.496 H 56.25 V 66 H 18.754 Z"
+       style="fill:#bcc4c8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1.3333333)" />
+    <path
+       id="I518f5baa7c7d4e71abc239c1e272a9b320251031115230"
+       d="m 5.258,63 h 2.25 c 0.828,0 1.5,0.672 1.5,1.5 v 2.25 c 0,0.828 -0.672,1.5 -1.5,1.5 h -2.25 c -0.828,0 -1.5,-0.672 -1.5,-1.5 V 64.5 c 0,-0.828 0.672,-1.5 1.5,-1.5 z m 62.238,0 h 2.25 c 0.828,0 1.5,0.672 1.5,1.5 v 2.25 c 0,0.828 -0.672,1.5 -1.5,1.5 h -2.25 c -0.828,0 -1.5,-0.672 -1.5,-1.5 V 64.5 c 0,-0.828 0.672,-1.5 1.5,-1.5 z"
+       style="fill:#1c3c50;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1.3333333)" />
+    <path
+       id="Ibebac519719142b8b0204ed2b59e8b1c20251031115230"
+       d="m 27.754,1.492 v 27.016 c 0,0.828 0.672,1.5 1.5,1.5 H 58.5 c 0.828,0 1.496,-0.672 1.496,-1.5 V 1.492 c 0,0.004 -32.23,0.004 -32.242,0 z M 55.5,23.258 c 0,0.828 -0.672,1.5 -1.5,1.5 h -4.5 c -0.828,0 -1.5,-0.672 -1.5,-1.5 V 8.242 c 0,-0.828 0.672,-1.5 1.5,-1.5 H 54 c 0.828,0 1.5,0.672 1.5,1.5 z"
+       style="fill:#bcc4c8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1.3333333)" />
+    <path
+       id="I6d26b86d54b745e6ad6ff2c2adba8b0e20251031115230"
+       d="M 58.5,41.98 H 16.504 c -0.828,0 -1.5,0.672 -1.5,1.5 v 7.524 H 59.996 V 43.48 c 0,-0.828 -0.668,-1.5 -1.496,-1.5 z"
+       style="fill:#ff9d00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1.3333333)" />
+  </g>
+</svg>
+
+

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="Ic708070944f44b76955b1e710e27a48a20251031115229"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   sodipodi:docname="output.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="Iacc2e4a5fd024933a3d820694f9155db20251031115229" />
+  <sodipodi:namedview
+     id="I0a9cc7a26019466fab52f2e48eaa816e20251031115229"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="I2d71ed98f9b24fa39eaa9477ca52a57d20251031115229"
+       width="100"
+       height="100"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="Ic2fbccc0313f4f4797165e9ac8b03cce20251031115229"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="Id11fc8594d164c6e8f442266fd6290a520251031115229"
+       d="M 9.781,65.219 V 55.434 H 0 V 75 h 37.5 l 3.262,-4.891 -3.262,-4.89 z"
+       style="fill:#446080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1.3333333)" />
+    <path
+       id="Id4233dcedd314be5865f5737993775af20251031115229"
+       d="m 75,55.434 h -9.781 v 9.785 H 37.5 V 75 H 75 Z"
+       style="fill:#324860;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1.3333333)" />
+    <path
+       id="I2ba21d577330438abfe1da5c3102c49320251031115229"
+       d="M 30.898,0 V 35.035 H 17.773 L 37.5,54.762 40.762,27.383 37.5,0 Z"
+       style="fill:#8bc0ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1.3333333)" />
+    <path
+       id="I524d07c1239844d3a4c4a2db077374bf20251031115229"
+       d="M 44.102,35.035 V 0 H 37.5 V 54.762 L 57.227,35.035 Z"
+       style="fill:#3897ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1.3333333)" />
+  </g>
+</svg>
+
+

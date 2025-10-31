@@ -3,7 +3,7 @@
 
 <svg
    version="1.1"
-   id="I314051b103a040708e67c8fa560399f020251030195520"
+   id="I102e25a0a824446aac72a68bfa9624f620251031115230"
    width="100"
    height="100"
    viewBox="0 0 100 100"
@@ -13,9 +13,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="Id52df3ad8c1d4505beb4b123062d7b7820251030195520" />
+     id="Iddce9d9b03534e25bfcdbf0d0891906c20251031115230" />
   <sodipodi:namedview
-     id="I12e3df13f7024c0e8c404dfa0c31cab620251030195520"
+     id="I5fb4228eb41845e3b63db1c384f16aec20251031115230"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -27,47 +27,49 @@
        x="0"
        y="0"
        inkscape:label="1"
-       id="I2364146f111d436abe64e1c4b643a7db20251030195520"
+       id="I5a7ef205aa3949c4bcc8901746fd9e7d20251031115230"
        width="100"
        height="100"
        margin="0"
        bleed="0" />
   </sodipodi:namedview>
   <g
-     id="I36ddde35132244808718e1e5da55e88220251030195520"
+     id="I4e54303233b5459191007d682d7947ff20251031115230"
      inkscape:groupmode="layer"
      inkscape:label="1">
     <path
-       id="I9bc2c78d42124cc8bd7d0cdb5b155d5220251030195520"
+       id="I4a18afcb7a5e48e58271f14344db460c20251031115230"
        d="M 65.625,60.938 H 9.375 v -25 L 37.5,9.375 65.625,35.938 Z"
        style="fill:#e8eaf6;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
     <path
-       id="I3938e3a7235a4982a8b6351ef29c0e9320251030195520"
+       id="Ieecb039419494c348c2ee6591820b7c420251031115230"
        d="M 60.938,32.812 53.125,25 V 14.062 h 7.813 z M 9.375,60.938 h 56.25 V 68.75 H 9.375 Z"
        style="fill:#c5cae9;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
     <path
-       id="I08576948e2d04a20bd210cc53c7a5f5420251030195520"
+       id="I3f3e8d927aed4639895ac9efee52d23820251031115230"
        d="M 37.5,6.719 6.25,35.781 9.375,39.219 37.5,13.125 65.625,39.219 68.75,35.781 Z"
        style="fill:#b71c1c;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
     <path
-       id="I98c6ce63e921423aa764f2dd3c0cc6ff20251030195520"
+       id="I1d1ca7bcec854f4a9a6373ba4d19cfe020251031115230"
        d="m 28.125,43.75 h 18.75 v 25 h -18.75 z"
        style="fill:#d84315;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
     <path
-       id="Ibaf3c347ea3f4c7485b0a302daa05d6520251030195520"
+       id="I9f94d78457a841d6a6c0c6e186f8895920251031115230"
        d="m 32.812,26.562 h 9.375 v 9.375 h -9.375 z"
        style="fill:#01579b;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
     <path
-       id="Idd3cdef4e28048809680d80c2d2b268420251030195520"
+       id="I4aa405a07d284d73b2be244bb587073720251031115230"
        d="m 42.969,55.469 c -0.469,0 -0.781,0.312 -0.781,0.781 v 3.125 c 0,0.469 0.312,0.781 0.781,0.781 0.469,0 0.781,-0.312 0.781,-0.781 V 56.25 c 0,-0.469 -0.312,-0.781 -0.781,-0.781 z"
        style="fill:#ff8a65;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
   </g>
 </svg>
+
+
 
 
