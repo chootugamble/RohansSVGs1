@@ -3,7 +3,7 @@
 
 <svg
    version="1.1"
-   id="I9d2c390fda184bf08c6f51f3ae4821d420251031115229"
+   id="If903820d25f7478cb3be8a1d53b0fe8820251103104211"
    width="100"
    height="100"
    viewBox="0 0 100 100"
@@ -13,9 +13,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="I96802bdf032649d4a0d0f4e3ae6aaacf20251031115229" />
+     id="I101eac2985134093b51d71bca6544bdb20251103104211" />
   <sodipodi:namedview
-     id="Ide30bd606c6641c2a194bb9737a4361920251031115229"
+     id="I47b454e523a4455fb7c709dd60ac3e2120251103104211"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -27,32 +27,34 @@
        x="0"
        y="0"
        inkscape:label="1"
-       id="Ifa08e90fa8ac4a0ea412c8b2ff010dc520251031115229"
+       id="Ia74ddda5d5654309a51caaa9d955efac20251103104211"
        width="100"
        height="100"
        margin="0"
        bleed="0" />
   </sodipodi:namedview>
   <g
-     id="I5e608f3e52784b07ad762d851a7fd7e820251031115229"
+     id="If066a57bd32340bea617602093f2032420251103104211"
      inkscape:groupmode="layer"
      inkscape:label="1">
     <path
-       id="I86a5580ee66f4cd7a273dc3b21ab41d620251031115229"
+       id="I631a731d2dd74541afdd18c46d49c04420251103104211"
        d="m 62.5,70.312 h -50 V 4.688 H 46.875 L 62.5,20.312 Z"
        style="fill:#90caf9;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
     <path
-       id="I1557eeb7a54d4d4383ccf0aee59988d920251031115229"
+       id="I104d14d2476f434084cd01c98b59cbb620251103104211"
        d="M 60.156,21.875 H 45.312 V 7.031 Z"
        style="fill:#e1f5fe;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
     <path
-       id="I0ea734eab7624376a6bde6dbe2c0ccda20251031115229"
+       id="I154c36a69f1540f79fdbe6297561c5ec20251103104211"
        d="m 25,32.812 h 26.562 v 3.126 H 25 Z m 0,6.25 h 20.312 v 3.126 H 25 Z m 0,6.25 h 26.562 v 3.126 H 25 Z m 0,6.25 h 20.312 v 3.126 H 25 Z"
        style="fill:#1976d2;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
   </g>
 </svg>
+
+
 
 

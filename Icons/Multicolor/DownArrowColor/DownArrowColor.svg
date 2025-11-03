@@ -3,7 +3,7 @@
 
 <svg
    version="1.1"
-   id="I18886b0ba5d545619249810ad1cf523620251031115229"
+   id="I546ece1e63104359972609103a0e730920251103104211"
    width="100"
    height="100"
    viewBox="0 0 100 100"
@@ -13,9 +13,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="I1442103230f8453dbe79111f7d7d324420251031115229" />
+     id="I91e772b510bb4b4093ebba579aac54cb20251103104212" />
   <sodipodi:namedview
-     id="I7f4d342536f84a22be32e2b84808bfcf20251031115229"
+     id="I6cd109aab957405999e1fa9233d998db20251103104212"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -27,32 +27,34 @@
        x="0"
        y="0"
        inkscape:label="1"
-       id="Idbfbdf53e5de41d488deb7e7483e412d20251031115229"
+       id="I73a43ca4e70148deb2679b220a27cddd20251103104212"
        width="100"
        height="100"
        margin="0"
        bleed="0" />
   </sodipodi:namedview>
   <g
-     id="I4c978b55ef834c089c805d25669fdca820251031115229"
+     id="I7b098f3af23f4691bfb7873a5097086420251103104212"
      inkscape:groupmode="layer"
      inkscape:label="1">
     <path
-       id="I6c572b2a383742a8a6bb1a19c3b0e7b620251031115229"
+       id="Ie4e4f81df6ae4080a6c220070c3d0fb920251103104212"
        d="M 64.227,37.504 37.5,72.855 10.773,37.504 H 29.742 V 1.293 h 15.516 v 36.211 z"
        style="fill:#00b4d7;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
     <path
-       id="Ib4e26f3db8564db8a10f9a85ca84f43820251031115229"
+       id="Idac97e97ff884431a9e11b4f67630f1220251103104212"
        d="M 29.742,1.293 V 37.504 H 10.773 L 37.5,72.855 V 1.293 Z"
        style="fill:#0093c4;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
     <path
-       id="I62d60e2ba2744fba871962a5167d5d6c20251031115229"
+       id="Ib77ee21d164f4bc991b817eda3d4b1ab20251103104212"
        d="M 37.5,75 8.172,36.211 H 28.445 V 0 h 18.11 V 36.211 H 66.828 Z M 13.371,38.801 37.5,70.711 61.629,38.797 H 43.965 V 2.586 h -12.93 v 36.215 z"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
   </g>
 </svg>
+
+
 
 

@@ -3,7 +3,7 @@
 
 <svg
    version="1.1"
-   id="I0c01712a56d249bea176af31520fc4f620251031115230"
+   id="I3d0f525646bc4a089b8b828eac0de44020251103104212"
    width="100"
    height="100"
    viewBox="0 0 100 100"
@@ -13,9 +13,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="I1db49b5dabe74101af185e765974892520251031115230" />
+     id="Ia23d8824661b4bacb25df5d1d06450c820251103104212" />
   <sodipodi:namedview
-     id="Ia913cdace2d444e69b281cfaf30c4f4c20251031115230"
+     id="Ia3e3e43f9dae430ab109830afb13480f20251103104212"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -27,52 +27,54 @@
        x="0"
        y="0"
        inkscape:label="1"
-       id="I464d324e90134c77ad0420a6682d825920251031115230"
+       id="I578f2750900b4826a86a8c26d587ef2c20251103104212"
        width="100"
        height="100"
        margin="0"
        bleed="0" />
   </sodipodi:namedview>
   <g
-     id="I3965c6716b744bba845c7967fec4a2e220251031115230"
+     id="I81846217e0fa4277b27ea1071d56e89a20251103104212"
      inkscape:groupmode="layer"
      inkscape:label="1">
     <path
-       id="I40b5077e0b65491a979e95015485f7ec20251031115230"
+       id="If918ef7ba8124270bf7718e3fbbb32a720251103104212"
        d="M 0,37.5 C 0,58.211 16.789,75 37.5,75 L 40.762,37.5 37.5,0 C 16.789,0 0,16.789 0,37.5 Z"
        style="fill:#bfdcff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
     <path
-       id="Ia06b951c3c40423aa59168afb11ee0fe20251031115230"
+       id="Ifd7291c3472c4d8f8c47c4b9d1e3cf7a20251103104212"
        d="M 37.5,0 V 75 C 58.211,75 75,58.211 75,37.5 75,16.789 58.211,0 37.5,0 Z"
        style="fill:#8bc0ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
     <path
-       id="I538a835bd4784a12a5e1683f0884d6c420251031115230"
+       id="Ib929cd8d5bd041d3be0e940b6292645520251103104212"
        d="m 6.523,37.5 c 0,17.082 13.895,30.977 30.977,30.977 L 40.762,37.5 37.5,6.523 C 20.418,6.523 6.523,20.418 6.523,37.5 Z"
        style="fill:#3897ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
     <path
-       id="I878f160609494cea8aded78dcc843f7e20251031115230"
+       id="I93308553ba53435688572f3a76d12a5520251103104212"
        d="M 37.5,6.523 V 68.477 C 54.582,68.477 68.477,54.582 68.477,37.5 68.477,20.418 54.582,6.523 37.5,6.523 Z"
        style="fill:#2d79cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
     <path
-       id="If5fd17042cce4cba94679d06ba982ac920251031115230"
+       id="Ibe9898392b144249b6d90b2e6b8538a620251103104212"
        d="m 32.609,21.195 c 0,2.703 2.188,4.891 4.891,4.891 l 1.629,-4.891 -1.629,-4.89 c -2.703,0 -4.891,2.191 -4.891,4.89 z"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
     <path
-       id="I3a545e1430804259bb4b4d6866ac3fbe20251031115230"
+       id="I71404adf3d9744bbb6d60fb7dc277e9e20251103104212"
        d="m 37.5,16.305 v 9.781 c 2.703,0 4.891,-2.188 4.891,-4.891 0,-2.699 -2.188,-4.89 -4.891,-4.89 z"
        style="fill:#bfdcff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
     <path
-       id="I622282c5972f480ea13b7084ad33c3f420251031115230"
+       id="I4b37aaeb16274bab8e6c83ef6a7f6af020251103104212"
        d="M 32.609,32.609 V 58.695 H 37.5 L 39.129,45.652 37.5,32.609 Z"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1.3333333)" />
   </g>
 </svg>
+
+
 
 

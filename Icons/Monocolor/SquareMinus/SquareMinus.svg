@@ -1,11 +1,13 @@
 ﻿<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
 	<title>New Project</title>
 	<style>
-		.Ce9cabc34052e4fee85da640be8bb55ad20251031115229 { fill: none;stroke: currentcolor;stroke-miterlimit:100;stroke-width: 10 } 
+		.C155c9062178847efa23b54b92f60062320251103104211 { fill: none;stroke: currentcolor;stroke-miterlimit:100;stroke-width: 10 } 
 	</style>
-	<path id="I2b4177ebde954559b843ae09cf62914120251031115229" fill-rule="evenodd" class="Ce9cabc34052e4fee85da640be8bb55ad20251031115229" d="m100 0v100h-100v-100z"/>
-	<path id="I753d8c122203457f8b6fe3c5cdb337a020251031115229" fill-rule="evenodd" class="Ce9cabc34052e4fee85da640be8bb55ad20251031115229" d="m80 47v5h-60v-5z"/>
+	<path id="Iaab307a038f444f1bbef588ca3b31ef720251103104211" fill-rule="evenodd" class="C155c9062178847efa23b54b92f60062320251103104211" d="m100 0v100h-100v-100z"/>
+	<path id="I3ca55ea5f19b42869eeb97d3adcf707120251103104211" fill-rule="evenodd" class="C155c9062178847efa23b54b92f60062320251103104211" d="m80 47v5h-60v-5z"/>
 </svg>
+
+
 
 
 
